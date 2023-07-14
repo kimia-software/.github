@@ -1,3 +1,3 @@
 ## :office:
 
-> kimia.software builds the software your idea needs.
+> elixir *et al.* software shop
